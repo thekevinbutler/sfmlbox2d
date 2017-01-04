@@ -1,0 +1,27 @@
+﻿Build started 12/28/2015 12:21:50 AM.
+     1>Project "C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\Testbed\Testbed.vcxproj" on node 4 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Kevin/Documents/GitHub/Box2D/Box2D/Testbed/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\Testbed\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\Kevin\Documents\GitHub\Box2D\Box2D /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D GLEW_STATIC /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Testbed.dir\Release\\" /Fd"Testbed.dir\Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Testbed\Framework\DebugDraw.cpp C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Testbed\Framework\imgui.cpp C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Testbed\Framework\Main.cpp C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Testbed\Framework\RenderGL3.cpp C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Testbed\Framework\Test.cpp C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Testbed\Tests\TestEntries.cpp
+         DebugDraw.cpp
+         imgui.cpp
+         Main.cpp
+         RenderGL3.cpp
+         Test.cpp
+         TestEntries.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\Testbed\Release\Testbed.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\Box2D\Release\Box2D.lib ..\glew\Release\glew.lib ..\glfw\Release\glfw.lib winmm.lib glu32.lib opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/Kevin/Documents/GitHub/Box2D/Box2D/Build/Testbed/Release/Testbed.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Kevin/Documents/GitHub/Box2D/Box2D/Build/Testbed/Release/Testbed.lib" /MACHINE:X86 /SAFESEH  /machine:X86 Testbed.dir\Release\DebugDraw.obj
+         Testbed.dir\Release\imgui.obj
+         Testbed.dir\Release\Main.obj
+         Testbed.dir\Release\RenderGL3.obj
+         Testbed.dir\Release\Test.obj
+         Testbed.dir\Release\TestEntries.obj
+         Testbed.vcxproj -> C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\Testbed\Release\Testbed.exe
+     1>Done Building Project "C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\Testbed\Testbed.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.40

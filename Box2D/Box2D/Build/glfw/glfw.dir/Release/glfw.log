@@ -1,0 +1,49 @@
+﻿Build started 12/28/2015 12:21:46 AM.
+     1>Project "C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\glfw\glfw.vcxproj" on node 4 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Kevin/Documents/GitHub/Box2D/Box2D/glfw/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\glfw\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D GLFW_STATIC /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"glfw.dir\Release\\" /Fd"glfw.dir\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\clipboard.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\context.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\gamma.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\init.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\input.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\joystick.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\monitor.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\time.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\window.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\wgl_context.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\win32_clipboard.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\win32_gamma.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\win32_init.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\win32_joystick.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\win32_monitor.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\win32_time.c C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glfw\win32_window.c
+         clipboard.c
+         context.c
+         gamma.c
+         init.c
+         input.c
+         joystick.c
+         monitor.c
+         time.c
+         window.c
+         wgl_context.c
+         win32_clipboard.c
+         win32_gamma.c
+         win32_init.c
+         win32_joystick.c
+         win32_monitor.c
+         win32_time.c
+         win32_window.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\glfw\Release\glfw.lib" /NOLOGO  /machine:X86 glfw.dir\Release\clipboard.obj
+         glfw.dir\Release\context.obj
+         glfw.dir\Release\gamma.obj
+         glfw.dir\Release\init.obj
+         glfw.dir\Release\input.obj
+         glfw.dir\Release\joystick.obj
+         glfw.dir\Release\monitor.obj
+         glfw.dir\Release\time.obj
+         glfw.dir\Release\window.obj
+         glfw.dir\Release\wgl_context.obj
+         glfw.dir\Release\win32_clipboard.obj
+         glfw.dir\Release\win32_gamma.obj
+         glfw.dir\Release\win32_init.obj
+         glfw.dir\Release\win32_joystick.obj
+         glfw.dir\Release\win32_monitor.obj
+         glfw.dir\Release\win32_time.obj
+         glfw.dir\Release\win32_window.obj
+         glfw.vcxproj -> C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\glfw\Release\glfw.lib
+     1>Done Building Project "C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\glfw\glfw.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.28

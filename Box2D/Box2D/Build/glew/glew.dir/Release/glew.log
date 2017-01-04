@@ -1,0 +1,16 @@
+﻿Build started 12/28/2015 12:21:46 AM.
+     1>Project "C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\glew\glew.vcxproj" on node 3 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Kevin/Documents/GitHub/Box2D/Box2D/glew/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\glew\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W3 /WX- /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D GLEW_STATIC /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"glew.dir\Release\\" /Fd"glew.dir\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\glew\glew.c
+         glew.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\glew\Release\glew.lib" /NOLOGO  /machine:X86 glew.dir\Release\glew.obj
+         glew.vcxproj -> C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\glew\Release\glew.lib
+     1>Done Building Project "C:\Users\Kevin\Documents\GitHub\Box2D\Box2D\Build\glew\glew.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.31
